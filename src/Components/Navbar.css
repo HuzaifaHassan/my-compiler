@@ -1,0 +1,47 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
+	height: 50px;
+	text-align: center;
+	color: #afec3f;
+	background-color: #474747;
+	gap: 20px;
+}
+
+#no {
+	height: 36px;
+	width: 80px;
+	font-size: 16px;
+	color: rgb(185, 185, 185);
+	border: 1px solid #afec3f;
+	border-radius: 4px;
+	background-color: #474747;
+}
+.upload-btn {
+    background-color: #008CBA;  /* A different color for upload, in this case, blue */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+#no:focus {
+	outline: none;
+}
+
+.css-2b097c-container {
+	width: 120px;
+	color: black;
+	background-color: #474747;
+}
+
+.css-yk16xz-control {
+	background-color: #474747 !important;
+	border-color: #afec3f !important;
+}
